@@ -13,7 +13,16 @@
 
 
 🔹📫 ![image](https://user-images.githubusercontent.com/89514486/155876781-20bcda52-fb6b-4596-a884-3cb1282ea4ac.png)
- Twitter - [@Krsanjeets](https://twitter.com/Krsanjeets),    Email- [1sanjeetkumar13@gmail.com](1sanjeetkumar13@gmail.com)
+<a href="https://twitter.com/Krsanjeets">
+             <img alt="Twitter" src="https://user-images.githubusercontent.com/89514486/155877364-f3a64694-fcb1-4fb0-9fdb-d25492a0cbab.png"> </a>
+         <a href="1sanjeetkumar13@gmail.com">
+             <img alt="Email" src="https://user-images.githubusercontent.com/89514486/155877452-086088f1-4730-488c-a8ac-95228178af31.png"> </a>
+             
+
+
+
+
+
 
 
 
