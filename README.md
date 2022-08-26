@@ -12,35 +12,17 @@
 🔸🤔 ![image](https://user-images.githubusercontent.com/89514486/155876645-de9ff14c-4178-430e-bb30-cb32108e6f8f.png)
 
 
-🔹📫 ![image](https://user-images.githubusercontent.com/89514486/155876781-20bcda52-fb6b-4596-a884-3cb1282ea4ac.png)
-<a href="https://twitter.com/Krsanjeets">
-             <img alt="Twitter" src="https://user-images.githubusercontent.com/89514486/155877364-f3a64694-fcb1-4fb0-9fdb-d25492a0cbab.png"> </a>
-         <a href="1sanjeetkumar13@gmail.com">
-             <img alt="Email" src="https://user-images.githubusercontent.com/89514486/155877452-086088f1-4730-488c-a8ac-95228178af31.png"> </a>
-             
 
 
 
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsanjeet1&theme=dark" alt="Sanjeetkumar" /></p>
+  </div>
 
+[![kumarsanjeet's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kumarsanjeet1&theme=xcode)](https://git.io/kumarsanjeet1)
+<div align = "center">
 
+[![GitHub followers](https://img.shields.io/github/followers/kumarsanjeet1.svg?style=social&label=Follow)](https://github.com/kumarsanjeet1?tab=followers)
 
+</div>
 
-
-🔸😄 ![image](https://user-images.githubusercontent.com/89514486/155876859-2a8ed36e-e438-474a-b1c4-1dc244c2b87d.png)
-
-
-<!--![1f331](https://user-images.githubusercontent.com/89514486/155875457-0fe190d4-7155-44f2-8da2-f1f04644b214.png)
-
-**Kumarsanjeet1/Kumarsanjeet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ...
-
-- 👯 I’m looking to collaborate on ...
--  ...
-- 💬 Ask me about ...
-
--  ...
-- ⚡ Fun fact: ...
--->
