@@ -1,16 +1,3 @@
-#
-![image](https://user-images.githubusercontent.com/89514486/155876450-da698c96-3156-4ab8-ba33-8c7f7f211a60.png)             
-<a href="https://github.com/Kumarsanjeet1">
-         <img alt="Sanjeet Kumar" src="https://user-images.githubusercontent.com/89514486/155876155-3b0c8dbc-713d-4f68-92e0-ca0aa216095e.png">  </a>
-     
-#
-🔹🌱 ![image](https://user-images.githubusercontent.com/89514486/155875478-9273a071-a655-45eb-9a96-8bf58af593b5.png) <a href="https://github.com/Kumarsanjeet1/DevOps"><img alt="DevOps" src="https://user-images.githubusercontent.com/89514486/155875418-79ab5e50-4a7a-4125-8ba5-66836195c9a5.png" > </a>
-
-
-▫️🔭 ![image](https://user-images.githubusercontent.com/89514486/155875647-a13a5b05-77b2-4921-bf7e-ad60f112ab39.png) Java, Git & GitHub, Linux & Python 
-
-🔸🤔 ![image](https://user-images.githubusercontent.com/89514486/155876645-de9ff14c-4178-430e-bb30-cb32108e6f8f.png)
-
 
 
 <table>
