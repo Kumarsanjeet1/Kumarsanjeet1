@@ -1,10 +1,17 @@
+<div align="left">
+<img src="profile1.gif" alt="profile_photo_&_name" style="width:1500px;height:400px">
 
-
-<table>
-  <tr>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=kumarsanjeet1&label=Profile%20views&color=6805D3&style=flat" alt="SanjeetKumar" /> </p></h3>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=kumarsanjeet1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sanjeet Kumar" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarsanjeet1&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sanjeet Kumar" /></td>
+   
+<div align="center">
+ 
+# Tools
+
+
+# project
+
+</div>
   </tr>
 </table>
 
