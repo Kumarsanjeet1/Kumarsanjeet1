@@ -8,14 +8,20 @@
 
 <div align="center">
    
-# Tools
-*
-*
-*  
-*   
+   # Tools
 </div>
 
+<div align ="center" >
+<img alt ="python" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/python.png"  width ="150" height = "45"/>  
+<img alt ="Java" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/java.png" width ="150" height = "45"/> 
+<img alt = "Html" src ="https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/html.png" width = "150" height = "45"/>
+</div>
+
+<hr>
+
 <div align="center">
+
+
    
 # project
 *
