@@ -75,10 +75,18 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
 
 # Let's get connect!
+![Twitter]()
+![Linkedin]()
+![Email]()
+![Telegram]()
+![Instagram]()
+![Discord]()
+![Youtube]()
+</div>
 
 <hr>
 
-</div>
+
 
 
 
