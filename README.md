@@ -4,7 +4,7 @@
 
 
 <hr>
-
+<hr>
 
 <div align="center">
 
@@ -98,7 +98,7 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
 
 
-<div align="center">
+< div align="center" >
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsanjeet1&theme=dark" alt="Sanjeetkumar" /></p>
 </div>
 
