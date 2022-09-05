@@ -70,19 +70,31 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
 
 
-<div align ="center">
+<p align ="center">
 
 
 
 # Let's get connect!
-![Twitter]()
-![Linkedin]()
-![Email]()
-![Telegram]()
-![Instagram]()
-![Discord]()
-![Youtube]()
-</div>
+
+
+<a href="https://twitter.com/Krsanjeets">  ![Twitter](https://abs.twimg.com/favicons/twitter.2.ico) </a>
+
+<a href="">  ![Discord](https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico)</a>
+
+<a href="">  <img> src="" alt="Email" </img> </a>
+
+<a href="">  <img> src="" alt="LinkedIn" </img> </a>
+
+<a href="">  <img> src="" alt="Telegram" </img> </a>
+
+<a href="">  <img> src="" alt="Instagram" </img> </a>
+
+<a href="">  <img> src="" alt="Youtube" </img> </a>
+
+
+
+
+</p>
 
 <hr>
 
