@@ -4,7 +4,7 @@
 
 
 <hr>
-
+<hr>
 
 <div align="center">
 
@@ -69,16 +69,24 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
 
 
-
-<div align ="center">
-
-
+<div align="center">
 
 # Let's get connect!
 
-<hr>
+ &nbsp; <a href="https://twitter.com/Krsanjeets">  ![Twitter](https://abs.twimg.com/favicons/twitter.2.ico) </a>
+ &nbsp; <a href="https://www.linkedin.com/in/sanjeet-kumar-86a418203" target="_blank"> ![download (1)](https://user-images.githubusercontent.com/89514486/188950044-73c3a49f-59fb-4996-9447-2c505551cd06.png) </a>
+ &nbsp; <a href="https://www.instagram.com/krsanjeets/">![download (4)](https://user-images.githubusercontent.com/89514486/188952790-dad06e1d-c283-406e-b6c0-72dd4f2e19ae.png)</a>
+ &nbsp;  <a href="https://www.youtube.com/channel/UCdScIJIGSBjckyLeONw6_EA">  ![download (5)](https://user-images.githubusercontent.com/89514486/188954575-da9670c0-17cb-4a7f-9897-0e0080fa0d90.png) </a>
 
 </div>
+
+
+
+
+<hr>
+
+
+
 
 
 
@@ -92,6 +100,7 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsanjeet1&theme=dark" alt="Sanjeetkumar" /></p>
+
 </div>
 
 
