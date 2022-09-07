@@ -70,31 +70,30 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
 
 
-<p align ="center">
+<p align ="left">
 
 
 
 # Let's get connect!
+</p>
 
+<p>
 
 <a href="https://twitter.com/Krsanjeets">  ![Twitter](https://abs.twimg.com/favicons/twitter.2.ico) </a>
 
-<a href="">  ![Discord](https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico)</a>
+<a href="https://www.linkedin.com/in/sanjeet-kumar-86a418203" target="_blank">  <img style="height:100px; width:100px"> ![download (1)](https://user-images.githubusercontent.com/89514486/188950044-73c3a49f-59fb-4996-9447-2c505551cd06.png) </img> </a>
 
-<a href="">  <img> src="" alt="Email" </img> </a>
 
-<a href="">  <img> src="" alt="LinkedIn" </img> </a>
-
-<a href="">  <img> src="" alt="Telegram" </img> </a>
-
-<a href="">  <img> src="" alt="Instagram" </img> </a>
+<a href="https://www.instagram.com/krsanjeets/">  <img>  </img> </a>
+ 
+ <a href="">  <img> src="" alt="Telegram" </img> </a>
 
 <a href="">  <img> src="" alt="Youtube" </img> </a>
 
+<p>
 
 
 
-</p>
 
 <hr>
 
