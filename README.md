@@ -31,24 +31,15 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 </div>
 
 <h1 align ="center" >
-<img alt =" Java" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/java.png"/>
-
-<img alt =" intellij" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/intellij.png "/>  
-
-<img alt =" HTML" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/html_logo.png "/>  
-
-<img alt =" CSS" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/css_logo.png "  />  
-
-<img alt =" javaScript" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/javaScript.png" />  
-
-<img alt =" git" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/git.png"  />  
-
-<img alt =" vscode" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/vscode.png" />  
-
-<img alt =" Linux" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/linux.png "  />  
-
-<img alt =" Python" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/python.png"  />  
-
+<img alt =" Java" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/java.png"/> &nbsp; &nbsp;
+<img alt =" intellij" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/intellij.png "/>   &nbsp; &nbsp;
+<img alt =" HTML" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/html_logo.png "/>   &nbsp; &nbsp;
+<img alt =" CSS" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/css_logo.png "  />   &nbsp; &nbsp;
+<img alt =" javaScript" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/javaScript.png" />   &nbsp; &nbsp;
+<img alt =" git" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/git.png"  />   &nbsp; &nbsp;
+<img alt =" vscode" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/vscode.png" />   &nbsp; &nbsp;
+<img alt =" Linux" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/linux.png "  />   &nbsp; &nbsp;
+<img alt =" Python" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/python.png"  />   &nbsp; &nbsp;
 <img alt ="Pycharm " src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/pycharm.png" />  
 
 </h1>
