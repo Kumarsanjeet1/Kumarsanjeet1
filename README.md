@@ -30,11 +30,28 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
    # Tools
 </div>
 
-<div align ="center" >
-<img alt ="python" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/python.png"  width ="150" height = "45"/>  
-<img alt ="Java" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/java.png" width ="150" height = "45"/> 
-<img alt = "Html" src ="https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/html.png" width = "150" height = "45"/>
-</div>
+<h1 align ="center" >
+<img alt =" Java" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/java.png"/>
+
+<img alt =" intellij" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/intellij.png "/>  
+
+<img alt =" HTML" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/html_logo.png "/>  
+
+<img alt =" CSS" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/css_logo.png "  />  
+
+<img alt =" javaScript" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/javaScript.png" />  
+
+<img alt =" git" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/git.png"  />  
+
+<img alt =" vscode" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/vscode.png" />  
+
+<img alt =" Linux" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/linux.png "  />  
+
+<img alt =" Python" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/python.png"  />  
+
+<img alt ="Pycharm " src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/pycharm.png" />  
+
+</h1>
 
 <hr>
 
