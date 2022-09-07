@@ -69,33 +69,22 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
 
 
-
-<p align ="left">
-
-
+<div align="center">
 
 # Let's get connect!
-</p>
 
-<p>
+ &nbsp; <a href="https://twitter.com/Krsanjeets">  ![Twitter](https://abs.twimg.com/favicons/twitter.2.ico) </a>
+ &nbsp; <a href="https://www.linkedin.com/in/sanjeet-kumar-86a418203" target="_blank"> ![download (1)](https://user-images.githubusercontent.com/89514486/188950044-73c3a49f-59fb-4996-9447-2c505551cd06.png) </a>
+ &nbsp; <a href="https://www.instagram.com/krsanjeets/">![download (4)](https://user-images.githubusercontent.com/89514486/188952790-dad06e1d-c283-406e-b6c0-72dd4f2e19ae.png)</a>
+ &nbsp;  <a href="https://www.youtube.com/channel/UCdScIJIGSBjckyLeONw6_EA">  ![download (5)](https://user-images.githubusercontent.com/89514486/188954575-da9670c0-17cb-4a7f-9897-0e0080fa0d90.png) </a>
 
-<a href="https://twitter.com/Krsanjeets">  ![Twitter](https://abs.twimg.com/favicons/twitter.2.ico) </a>
-
-<a href="https://www.linkedin.com/in/sanjeet-kumar-86a418203" target="_blank">  <img style="height:100px; width:100px"> ![download (1)](https://user-images.githubusercontent.com/89514486/188950044-73c3a49f-59fb-4996-9447-2c505551cd06.png) </img> </a>
-
-
-<a href="https://www.instagram.com/krsanjeets/">  <img>  </img> </a>
- 
- <a href="">  <img> src="" alt="Telegram" </img> </a>
-
-<a href="">  <img> src="" alt="Youtube" </img> </a>
-
-<p>
+</div>
 
 
 
 
 <hr>
+
 
 
 
