@@ -10,7 +10,7 @@
 
 #  About me!
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+<p>I am <b>Sanjeet Kumar</B> Pursuing my <b>Computer Science Degree</b> from Sam College of Engineering and Technology Bhopal, Presently working on <b>Front-end Web Development</b> projects and exploring <b>DevOps</b> Field.  </p>
 
 
 <a href="https://www.twitter.com/Krsanjeets" target="_blank" rel="noreferrer"><img
