@@ -4,7 +4,6 @@
 
 
 <hr>
-<hr>
 
 <div align="center">
 
@@ -24,6 +23,7 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
 
  <hr>  
+
    
 
 <div align="center">
