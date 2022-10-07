@@ -10,7 +10,7 @@
 
 #  About me!
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
 
 <a href="https://www.twitter.com/Krsanjeets" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -30,11 +30,19 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
    # Tools
 </div>
 
-<div align ="center" >
-<img alt ="python" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/python.png"  width ="150" height = "45"/>  
-<img alt ="Java" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/java.png" width ="150" height = "45"/> 
-<img alt = "Html" src ="https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/html.png" width = "150" height = "45"/>
-</div>
+<h1 align ="center" >
+<img alt =" Java" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/java.png"/> &nbsp; &nbsp;
+<img alt =" intellij" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/intellij.png "/>   &nbsp; &nbsp;
+<img alt =" HTML" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/html_logo.png "/>   &nbsp; &nbsp;
+<img alt =" CSS" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/css_logo.png "  />   &nbsp; &nbsp;
+<img alt =" javaScript" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/javaScript.png" />   &nbsp; &nbsp;
+<img alt =" git" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/git.png"  />   &nbsp; &nbsp;
+<img alt =" vscode" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/vscode.png" />   &nbsp; &nbsp;
+<img alt =" Linux" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/linux.png "  />   &nbsp; &nbsp;
+<img alt =" Python" src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/python.png"  />   &nbsp; &nbsp;
+<img alt ="Pycharm " src = "https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/tools_png/pycharm.png" />  
+
+</h1>
 
 <hr>
 
@@ -43,12 +51,15 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
    
 # project
-*
-*
-*
-*
-*
+
 </div>
+
+* [10 Mini project](https://github.com/Kumarsanjeet1/10_Mini_project)
+*
+*
+*
+*
+
    
    
    
