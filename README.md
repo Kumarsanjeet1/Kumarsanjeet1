@@ -1,4 +1,4 @@
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=kumarsanjeet1&label=Profile%20views&color=6805D3&style=flat" alt="SanjeetKumar" /> </p></h3>
+<h3><p align="center"> <img src="https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/banner.png" alt="SanjeetKumar" /> </p></h3>
 
 <img src="profile1.gif" alt="profile_photo_&_name" style="width:1500px;height:400px">
 
@@ -27,7 +27,7 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
 <div align="center">
    
-   # Tools
+   # Tech Stack
 </div>
 
 <h1 align ="center" >
