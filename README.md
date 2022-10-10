@@ -9,7 +9,9 @@
 
 #  About me!
 
-<p>I am <b>Sanjeet Kumar</B> Pursuing my <b>Computer Science Degree</b> from Sam College of Engineering and Technology Bhopal, Presently working on <b>Front-end Web Development</b> projects and exploring <b>DevOps</b> Field.  </p>
+<p>I am <b>Sanjeet Kumar</B> Pursuing my <b>Computer Science Degree</b> from Sam College of Engineering and Technology Bhopal, Presently working on 
+ <a href="https://github.com/Kumarsanjeet1/frontend_Dev"><strong>Front-end Web Development</strong></a> projects and exploring
+ <a href="https://github.com/Kumarsanjeet1/DevOps-90"><strong>DevOps</strong></a> Field.  </p>
 
 
 <a href="https://www.twitter.com/Krsanjeets" target="_blank" rel="noreferrer"><img
