@@ -63,7 +63,7 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
 
    
-# project
+# projects
 
 </div>
 
