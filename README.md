@@ -1,6 +1,6 @@
 <h3><p align="center"> <img src="https://github.com/Kumarsanjeet1/Kumarsanjeet1/blob/main/banner.png" alt="SanjeetKumar" /> </p></h3>
 
-<img src="profile1.gif" alt="profile_photo_&_name" style="width:1500px;height:400px">
+
 
 
 <hr>
