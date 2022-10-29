@@ -123,7 +123,7 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsanjeet1&theme=dark" alt="Sanjeetkumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumarsanjeet1&theme=dark" alt="Sanjeetkumar" /></p>
 
 </div>
 
