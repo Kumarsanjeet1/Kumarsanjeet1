@@ -129,8 +129,6 @@ src="https://img.shields.io/twitter/follow/Krsanjeets?logo=twitter&style=for-the
 
 
 
-[![kumarsanjeet's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kumarsanjeet1&theme=xcode)](https://git.io/kumarsanjeet1)
-
 
 
 
